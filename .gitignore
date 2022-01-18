@@ -27,6 +27,7 @@ ExportedObj/
 *.log
 *.meta
 *.vsconfig
+./Nautilus_Rush/Logs
 
 # Unity3D generated meta files
 *.pidb.meta
